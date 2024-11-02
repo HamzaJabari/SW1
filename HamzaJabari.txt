@@ -1,1 +1,5 @@
 Hamza Jabari
+Commands used:
+1. git add FriendName.txt
+2. git commit -m "Add FriendName's file"
+3. git push origin main
